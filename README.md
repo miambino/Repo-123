@@ -5,3 +5,4 @@
 <a href="https://gitpod.io/#https://github.com/miambino/Repo-123"><img src="https://avatars.githubusercontent.com/u/37021919?s=280&v=4"
 style="width:500px;height:50px;" target="_blank" rel="noopener noreferrer"></a>
 <!I really want to make this link open in a new tab, but It's not being cooperative!>
+<p1><i>Yes, the logo is meant to be stretched.</i></p1>
