@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     (
         (argc > 0)
         ?           //?: is the if-else in C. (condition) ? this : else, that
-        "%s": "%s", *(++argv)       //%s is the format specifier for string. if argc > 0, prints stored 
+        "%s ": "%s ", *(++argv)       //%s is the format specifier for string.
     );
     printf("\n");       //linebreak
     return 0;
